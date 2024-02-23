@@ -208,5 +208,11 @@ footer button {
     margin-left: 20px;
     width: 150px;
     cursor: pointer;
-    /* border: none; */
+    border: none;
+}
+
+footer button:hover {
+    background-color: #f2f2f2;
+    color: #000000b3;
+
 }
